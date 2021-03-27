@@ -1,0 +1,13 @@
+C:\Users\firsp\source\repos\List-Basic-Operations\List-Basic-Operations\obj\Debug\netcoreapp3.1\List-Basic-Operations.csprojAssemblyReference.cache
+C:\Users\firsp\source\repos\List-Basic-Operations\List-Basic-Operations\obj\Debug\netcoreapp3.1\List-Basic-Operations.AssemblyInfoInputs.cache
+C:\Users\firsp\source\repos\List-Basic-Operations\List-Basic-Operations\obj\Debug\netcoreapp3.1\List-Basic-Operations.AssemblyInfo.cs
+C:\Users\firsp\source\repos\List-Basic-Operations\List-Basic-Operations\obj\Debug\netcoreapp3.1\List-Basic-Operations.csproj.CoreCompileInputs.cache
+C:\Users\firsp\source\repos\List-Basic-Operations\List-Basic-Operations\bin\Debug\netcoreapp3.1\List-Basic-Operations.exe
+C:\Users\firsp\source\repos\List-Basic-Operations\List-Basic-Operations\bin\Debug\netcoreapp3.1\List-Basic-Operations.deps.json
+C:\Users\firsp\source\repos\List-Basic-Operations\List-Basic-Operations\bin\Debug\netcoreapp3.1\List-Basic-Operations.runtimeconfig.json
+C:\Users\firsp\source\repos\List-Basic-Operations\List-Basic-Operations\bin\Debug\netcoreapp3.1\List-Basic-Operations.runtimeconfig.dev.json
+C:\Users\firsp\source\repos\List-Basic-Operations\List-Basic-Operations\bin\Debug\netcoreapp3.1\List-Basic-Operations.dll
+C:\Users\firsp\source\repos\List-Basic-Operations\List-Basic-Operations\bin\Debug\netcoreapp3.1\List-Basic-Operations.pdb
+C:\Users\firsp\source\repos\List-Basic-Operations\List-Basic-Operations\obj\Debug\netcoreapp3.1\List-Basic-Operations.dll
+C:\Users\firsp\source\repos\List-Basic-Operations\List-Basic-Operations\obj\Debug\netcoreapp3.1\List-Basic-Operations.pdb
+C:\Users\firsp\source\repos\List-Basic-Operations\List-Basic-Operations\obj\Debug\netcoreapp3.1\List-Basic-Operations.genruntimeconfig.cache
